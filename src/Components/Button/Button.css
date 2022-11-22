@@ -1,0 +1,12 @@
+.Button button{
+    border: 1.5px dashed #fff;
+    background: transparent;
+    color: white;
+}
+.Button{
+    background: linear-gradient(79deg, rgba(194,223,9,1) 0%, rgba(58,155,0,1) 100%);
+    width: fit-content;
+}
+.btn1:hover{
+    background: transparent !important;
+}

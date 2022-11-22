@@ -1,0 +1,33 @@
+
+.navbar_bg{
+    background-color: transparent !important;
+    background: transparent !important;
+}
+.nav-item a{
+    color: #fff !important;
+    margin-left: 3rem;
+}
+.navlikdata{
+    margin-left: -1rem !important;
+    text-decoration: none;
+}
+
+@media screen and (max-width:800px) {
+    .navlikdata{
+        margin-left: -0.1rem !important;
+        text-decoration: none;
+    }
+}
+
+.navbar-brand{
+    width: 8rem;
+}
+
+
+
+
+.navbar-toggler  {
+   
+background-color: #fff !important;
+
+}

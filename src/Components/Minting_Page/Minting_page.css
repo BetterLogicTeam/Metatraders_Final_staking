@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.Home{
+/* font-family: 'Oswald', sans-serif; */
+font-family: 'Poppins', sans-serif;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height:100vh;
+}
+.cards{
+    transition: all 1s;
+}
+.bgColor{
+    background-color: #091b29;
+}
+.connectWallet{
+    border: 3px solid rgba(255, 255, 255, 0.3);
+}
+.priceNFT{
+    position: absolute;
+    bottom: 20px;
+    z-index: 9;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+}
+.bShadow{
+    box-shadow: 0px 0px 20px 10px #091b29;
+}
+.topBox{
+    z-index: 99;
+}
+
+.mintbtnb{
+    letter-spacing: 4px;
+}
+.mintprice{
+    border:1px solid rgba(255, 255, 255, 0.3);
+}
+.WShadow
+{
+    border: 0;
+    box-shadow: 0px 0px 7px 4px rgba(255, 255, 255, 0.4);
+}
+.loader{
+    background-color: rgba(0, 0, 0, 0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
